@@ -265,7 +265,9 @@ class Layout:
         """
 
         layout_name = splitext(basename(routine))[0]
+        print(layout_name)
         target = os.path.join(get_layouts_dir(), layout_name)
+        print(target)
         if isfile(target):
             print(f" -  Found existing Layout file at '{target}'.")
             with open(target, 'rb') as file:
