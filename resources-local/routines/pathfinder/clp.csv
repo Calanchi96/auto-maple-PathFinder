@@ -1,0 +1,18 @@
+*, x=0.439, y=0.191, frequency=1, skip=False, adjust=False
+    Buff
+    ShadowRaven
+    CardinalMacro, direction=right, attacks=3, repetitions=3
+    CardinalMacro, direction=left, attacks=3, repetitions=3
+    GlyphOfImpalement
+    ComboAssault
+*, x=0.200, y=0.191, frequency=1, skip=False, adjust=False
+    CardinalMacro, direction=right, attacks=3, repetitions=3
+*, x=0.389, y=0.287, frequency=1, skip=False, adjust=False
+    RavenTempest, direction=right
+    CardinalMacro, direction=right, attacks=3, repetitions=3
+*, x=0.701, y=0.287, frequency=1, skip=False, adjust=False
+    CardinalMacro, direction=left, attacks=3, repetitions=3
+*, x=0.720, y=0.096, frequency=1, skip=False, adjust=True
+    CardinalMacro, direction=left, attacks=3, repetitions=3
+*, x=0.369, y=0.096, frequency=1, skip=False, adjust=True
+    CardinalMacro, direction=right, attacks=3, repetitions=3
